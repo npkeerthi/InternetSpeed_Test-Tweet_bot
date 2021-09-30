@@ -7,3 +7,4 @@
  Almost we all are not getting the promised internet speeds.
 
  So, for us this CT Bot would do a speed test and then send its internet speeds by Twitter to Comcast to complain.
+ [My CT BOT](https://twitter.com/Interne59456883)
